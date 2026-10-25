@@ -1,6 +1,6 @@
 cask "etchy" do
-  version "0.1.1"
-  sha256 "b951fa961c5bf29fe1e2d3296bcd515b12eddcc162dae7fcfc74a597efc40cef"
+  version "0.1.2"
+  sha256 "af78beb81cc871fef4096e520a1a4ec9bf720311e02583664ccc77225872d8db"
 
   url "https://github.com/Cimos/etchy/releases/download/v#{version}/etchy-viewer-v#{version}-macos-aarch64.dmg"
   name "etchy"
